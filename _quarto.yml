@@ -32,5 +32,9 @@ format:
   pdf:
     documentclass: scrreprt
 
+website:
+  title: "My Site"
+  site-url: "https://laurensiusdani.github.io/all-about-me/"
+
 
 
