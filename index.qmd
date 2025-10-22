@@ -1,8 +1,32 @@
+---
+title: "Welcome"
+format:
+  html:
+    css: styles.css
+---
+
+:::{.center}
 # Welcome to my page! {.unnumbered}
+:::
 
-![About Me](images/PyramidSelfie.jpg){width=950%}
+<p align="center">
+  <img src="images/NewArabMe3.jpg" width="100%" style="border-radius:12px;" />
+  <br>  
+  😎😎😎😎 
+</p>
 
-Perkenalkan, saya Laurensius Dani Rendragraha, seorang mahasiswa di Sekolah Teknik Elektro dan Informatika ITB. 
+
+*Setiap manusia adalah kumpulan dari cerita-cerita yang belum selesai. Website ini adalah upaya saya pribadi untuk membagikan beberapa bab dari cerita saya.*
+
+Izin yapping sebentar 🙏
+
+
+<p align="center">
+  <img src="images/chill-guy.gif" alt="Intro GIF" width="30%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);" />
+</p>
+
+Portofolio ini saya buat sebagai bagian dari pemenuhan mata kuliah II2100 Komunikasi Interpersonal dan Publik pada Program Studi Sistem dan Teknologi Informasi – Institut Teknologi Bandung (ITB). Alih-alih sekadar tugas, saya berharap isinya dapat menjadi rekaman jujur dari proses pertumbuhan saya dalam hal ilmu pengetahuan, cara berpikir, dan pemahaman personal.
+
 
 <!-- Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
 
