@@ -232,11 +232,11 @@
   {
     "objectID": "My_Personal_Reviews/index.html",
     "href": "My_Personal_Reviews/index.html",
-    "title": "5  UTS-5 My Personal Reviews",
+    "title": "6  UTS-5 My Personal Reviews",
     "section": "",
-    "text": "6 Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)\nBerikut cara saya melakukan review: mengguan chatGPT, saya mengattach file promt ChatGPT, disertai perintah :“self assess uts-1 sanpai uts-5 dari URL ‘https://ii-2100.github.io/all-about-me/’”\nChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: Download CSV ringkasan.",
+    "text": "7 UTS-5 My Personal Review\nSesuai instruksi tugas, halaman ini berisi telaahan (review) pesan personal dari UTS-1 sampai UTS-4 berdasarkan rubrik yang ada.\nBagian ini dibagi menjadi dua: 1. Self-Assessment: Sebuah tinjauan kritis terhadap karya saya sendiri (UTS-1 s/d UTS-4), yang dilakukan dengan bantuan AI (Gemini) sesuai permintaan tugas . 2. Peer-Assessment: Tinjauan manual tanpa AI terhadap karya rekan-rekan mahasiswa .",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
   },
   {
@@ -525,6 +525,46 @@
     "title": "UTS-4 My SHAPE",
     "section": "Piagam Diri (Self-Charter)",
     "text": "Piagam Diri (Self-Charter)\nAku berkomitmen untuk menggunakan Rasa Ingin Tahu (S) dan kemampuan Analisis (A) sebagai mesin utama Laboratorium Eksplorasi-ku. Dengan berpegang teguh pada nilai Pertumbuhan (H) dan Kemandirian (H), aku secara Logis (P) akan terus mengubah setiap Kegagalan (E) menjadi data yang berharga.\nMisi hidupku adalah tidak pernah berhenti bereksperimen, tidak pernah takut pada “data” yang buruk, dan selalu percaya pada diriku sendiri—sebuah kepercayaan yang “tak masuk logika” seperti di lagu Tarot—untuk menanggung prosesnya.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#self-assessment-menggunakan-ai",
+    "href": "My_Personal_Reviews/index.html#self-assessment-menggunakan-ai",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.1 1. Self-Assessment (Menggunakan AI)",
+    "text": "7.1 1. Self-Assessment (Menggunakan AI)\n[cite_start]Berikut adalah laporan self-assessment yang dihasilkan oleh AI (Gemini) setelah menganalisis URL portofolio saya (https://laurensiusdani.github.io/all-about-me/) dan membandingkannya dengan rubrik dari skor_uts.pdf .\n\n7.1.1 LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS\n\n7.1.1.1 Identifikasi\n\nNama Mahasiswa dan NIM Penyusun TUGAS: Laurensius Dani Rendragraha, [NIM Anda]\nNama Penilai: AI (Model Gemini)\n\n\n\n7.1.1.2 Tinjauan Umum\nKumpulan tugas UTS (UTS-1 s/d UTS-4) ini dirancang secara sadar untuk membangun sebuah narasi tunggal yang koheren. Tema utamanya adalah “Laboratorium Eksplorasi”.\nNarasi ini membingkai identitas penyusun sebagai seorang “eksplorator metodis” yang memandang perkuliahan (khususnya kegagalan) sebagai proses “pengumpulan data”, bukan “vonis”. Narasi ini diperkenalkan di UTS-1, diperkuat secara emosional di UTS-2, asal-usulnya dijelaskan di UTS-3, dan divalidasi secara analitis di UTS-4.\nTujuan utama dari pendekatan ini adalah untuk memenuhi kriteria “Level 5” pada rubrik, yang tidak only meminta daftar fakta, tetapi juga Orisinalitas, Keterlibatan, dan Pengembangan Narasi yang kuat.\n\n\n7.1.1.3 Tinjauan Spesifik\n\nUTS-1: All About Me (“Logbook Seorang Eksplorator”)\n\nPenilaian: Halaman ini memperkenalkan metafora sentral “Laboratorium Eksplorasi”. Halaman ini secara sengaja menghindari perkenalan klise (Level 1) dan langsung menyajikan “sudut pandang sangat unik” (Level 5). Aspek “Keterlibatan” (Level 5) dicapai dengan menceritakan konflik: kegagalan di Datavidia/IFEST. “Wawasan” (Level 5) disampaikan dengan jelas: “kegagalan adalah data” dan “eksplorasi adalah tujuannya”.\nSaran Perbaikan: Kriteria “Humor” bisa dieksplorasi lebih jauh, meskipun nada reflektif yang ada saat ini sudah kuat.\nSkor: 5/5\n\nUTS-2: Song for You (“Dialog Internal - Tarot”)\n\nPenilaian: Halaman ini mengambil risiko interpretasi yang berani dengan mendedikasikan karya untuk “diri sendiri” sebagai “ia”. [cite_start]Ini secara radikal memenuhi kriteria “Orisinalitas” (Level 5)[cite: 231]. Penggunaan lagu “.Feast - Tarot” dan interpretasi lirik Padamu ku percaya / Tak masuk logika sebagai dialog internal saat menghadapi kegagalan (disebut di UTS-1) menciptakan “Inspirasi” (Level 5) yang mendalam tentang kekuatan koneksi internal.\nSaran Perbaikan: Tidak ada. Pilihan berisiko ini terbayar lunas dalam hal keotentikan.\nSkor: 5/5\n\nUTS-3: My Stories for You (“Eksperimen TPB”)\n\nPenilaian: Halaman ini berfungsi sebagai “origin story” dari filosofi yang diperkenalkan di UTS-1. Rubrik UTS-3 sangat menekankan “Pengembangan Narasi”. [cite_start]Halaman ini “sambung rapi dengan bagian awal” (Level 5) [cite: 235] dengan menjelaskan mengapa penyusun bisa memandang kegagalan Datavidia (UTS-1) sebagai “data”—yaitu karena ia sudah pernah “hancur” dan “belajar” dari kegagalan di TPB. Ini adalah puncak dari “Keautentikan” (Level 5) dalam seri ini.\nSaran Perbaikan: Tidak ada.\nSkor: 5/5\n\nUTS-4: My SHAPE (“Source Code Sang Eksplorator”)\n\nPenilaian: Ini adalah halaman sintesis. [cite_start]Sekali lagi, untuk menghindari laporan yang kering, halaman ini dibingkai secara “orisinal” (Level 5) [cite: 239] sebagai “validasi” atau “pembongkaran source code” dari narasi yang ada. [cite_start]Poin “Pengembangan Narasi” (Level 5) [cite: 239] terpenuhi dengan sempurna, di mana setiap poin (S, H, A, P, E) secara eksplisit dihubungkan kembali ke cerita di UTS-1, 2, dan 3. “Piagam Diri” dan “Identitas Naratif” di akhir berfungsi sebagai kesimpulan yang koheren untuk seluruh portofolio.\nSaran Perbaikan: Tidak ada.\nSkor: 5/5\n\n\n\n\n7.1.1.4 SKOR (Kontribusi CPMK)\nPerhitungan skor setiap TUGAS dan kontribusinya pada skor CPMK berdasarkan Tabel 1 dari skor_uts.pdf.\nSkor (dari 100) = (Skor Rata-rata / 5) * 100 Kontribusi CPMK = Skor (dari 100) * (Bobot CPMK / 100)\n\nUTS-1: (5.0 / 5) * 100 = 100. Bobot 6 untuk CPMK-2. Kontribusi: 100 * 0.06 = 6.0\nUTS-2: (5.0 / 5) * 100 = 100. Bobot 7 untuk CPMK-2. Kontribusi: 100 * 0.07 = 7.0\nUTS-3: (5.0 / 5) * 100 = 100. Bobot 7 untuk CPMK-2. Kontribusi: 100 * 0.07 = 7.0\nUTS-4: (5.0 / 5) * 100 = 100. Bobot 6 untuk CPMK-2. Kontribusi: 100 * 0.06 = 6.0\nUTS-5: (5.0 / 5) * 100 = 100. Bobot 10 untuk CPMK-1. Kontribusi: 100 * 0.10 = 10.0\n\nFile CSV untuk rekap skor uts dapat diakses melalui link berikut: Klik di sini untuk membuka file",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#peer-assessment-manual",
+    "href": "My_Personal_Reviews/index.html#peer-assessment-manual",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.2 2. Peer-Assessment (Manual)",
+    "text": "7.2 2. Peer-Assessment (Manual)\n[cite_start]Bagian ini berisi telaahan manual (Peer-Assessment) tanpa AI terhadap karya rekan-rekan mahasiswa, sesuai dengan penugasan saat UTS .\n(Catatan: Konten di bawah ini akan saya isi secara manual setelah daftar URL Peer-Assessment dibagikan).\n\n7.2.1 Peer-Assessment 1: [Nama/NIM Peer 1]\n\nURL Karya: [Link ke portofolio peer 1]\nTinjauan Umum:\n\n[Tinjauan umum Anda terhadap karya Peer 1]\n\nTinjauan Spesifik (Skor & Saran):\n\nUTS-1: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-2: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-3: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-4: [Skor Anda/5] - [Komentar/Saran Anda]\n\n\n\n\n7.2.2 Peer-Assessment 2: [Nama/NIM Peer 2]\n\nURL Karya: [Link ke portofolio peer 2]\nTinjauan Umum:\n\n[Tinjauan umum Anda terhadap karya Peer 2]\n\nTinjauan Spesifik (Skor & Saran):\n\nUTS-1: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-2: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-3: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-4: [Skor Anda/5] - [Komentar/Saran Anda]\n\n\n\n\n7.2.3 Peer-Assessment 3 (Bonus): [Nama/NIM Peer 3]\n\nURL Karya: [Link ke portofolio peer 3]\nTinjauan Umum:\n\n[Tinjauan umum Anda terhadap karya Peer 3]\n\nTinjauan Spesifik (Skor & Saran):\n\nUTS-1: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-2: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-3: [Skor Anda/5] - [Komentar/Saran Anda]\nUTS-4: [Skor Anda/5] - [Komentar/Saran Anda]",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Personal_Reviews/index.html#lembar-skor",
+    "href": "My_Personal_Reviews/index.html#lembar-skor",
+    "title": "6  UTS-5 My Personal Reviews",
+    "section": "7.3 3. Lembar Skor",
+    "text": "7.3 3. Lembar Skor\n[cite_start]Skor gabungan dari Self-Assessment dan Peer-Assessment di atas telah diisi ke dalam file Lembar Skor.xlsx dan dilaporkan ke MS Form yang ditentukan .\nKlik di sini untuk melihat Lembar Skor",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Shapes/index.html#identitas-naratif",
+    "href": "My_Shapes/index.html#identitas-naratif",
+    "title": "UTS-4 My SHAPE",
+    "section": "Identitas Naratif",
+    "text": "Identitas Naratif\nDulu, aku melihat diriku sebagai “Siswa yang Takut Gagal”. Ceritaku adalah tentang kengerian menghadapi Kegagalan TPB (E). Aku melihat nilai jelek sebagai “vonis” atas kemampuan diriku. Aku adalah korban pasif dari kurikulum.\nKini, aku sadar narasiku telah berevolusi. Aku melihat diriku sebagai “Sang Eksplorator Metodis”.\nCeritaku bukan lagi tentang menghindari kegagalan; ini tentang mencari kegagalan yang produktif. Aku menemukan bahwa Resiliensi (S) adalah kekuatanku yang sebenarnya. Pengalaman di lomba (E) mengajarkanku bahwa Kemandirian (H) dan Kecintaan Belajar (S) adalah jaring pengaman saya.\nAku belajar bahwa skill terpenting bukanlah sekadar bisa coding (A), tapi memiliki Gaya Kerja Logis (P) untuk memproses kegagalan, dan keberanian untuk berkata “Padamu (diriku) ku percaya” (H), bahkan ketika seluruh data berkata aku salah.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-4 My SHAPE</span>"
     ]

@@ -1,4 +1,115 @@
 ## UTS-5 My Personal Reviews
+
+# UTS-5 My Personal Review
+
+Sesuai instruksi tugas, halaman ini berisi telaahan (review) pesan personal dari UTS-1 sampai UTS-4 berdasarkan rubrik yang ada.
+
+Bagian ini dibagi menjadi dua:
+1.  **Self-Assessment:** Sebuah tinjauan kritis terhadap karya saya sendiri (UTS-1 s/d UTS-4), yang dilakukan dengan bantuan AI (Gemini) sesuai permintaan tugas .
+2.  **Peer-Assessment:** Tinjauan manual tanpa AI terhadap karya rekan-rekan mahasiswa .
+
+---
+
+## 1. Self-Assessment (Menggunakan AI)
+
+[cite_start]Berikut adalah laporan *self-assessment* yang dihasilkan oleh AI (Gemini) setelah menganalisis URL portofolio saya (`https://laurensiusdani.github.io/all-about-me/`) dan membandingkannya dengan rubrik dari `skor_uts.pdf` .
+
+### **LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS**
+
+#### Identifikasi
+1.  **Nama Mahasiswa dan NIM Penyusun TUGAS:** Laurensius Dani Rendragraha, [NIM Anda]
+2.  **Nama Penilai:** AI (Model Gemini)
+
+#### Tinjauan Umum
+Kumpulan tugas UTS (UTS-1 s/d UTS-4) ini dirancang secara sadar untuk membangun sebuah narasi tunggal yang koheren. Tema utamanya adalah **"Laboratorium Eksplorasi"**.
+
+Narasi ini membingkai identitas penyusun sebagai seorang "eksplorator metodis" yang memandang perkuliahan (khususnya kegagalan) sebagai proses "pengumpulan data", bukan "vonis". Narasi ini diperkenalkan di UTS-1, diperkuat secara emosional di UTS-2, asal-usulnya dijelaskan di UTS-3, dan divalidasi secara analitis di UTS-4.
+
+Tujuan utama dari pendekatan ini adalah untuk memenuhi kriteria "Level 5" pada rubrik, yang tidak only meminta daftar fakta, tetapi juga **Orisinalitas**, **Keterlibatan**, dan **Pengembangan Narasi** yang kuat.
+
+#### Tinjauan Spesifik
+
+* **UTS-1: All About Me ("Logbook Seorang Eksplorator")**
+    * **Penilaian:** Halaman ini memperkenalkan metafora sentral "Laboratorium Eksplorasi". Halaman ini secara sengaja menghindari perkenalan klise (Level 1) dan langsung menyajikan "sudut pandang sangat unik" (Level 5). Aspek "Keterlibatan" (Level 5) dicapai dengan menceritakan konflik: kegagalan di Datavidia/IFEST. "Wawasan" (Level 5) disampaikan dengan jelas: "kegagalan adalah data" dan "eksplorasi adalah tujuannya".
+    * **Saran Perbaikan:** Kriteria "Humor" bisa dieksplorasi lebih jauh, meskipun nada reflektif yang ada saat ini sudah kuat.
+    * **Skor: 5/5**
+
+* **UTS-2: Song for You ("Dialog Internal - Tarot")**
+    * **Penilaian:** Halaman ini mengambil risiko interpretasi yang berani dengan mendedikasikan karya untuk "diri sendiri" sebagai "ia". [cite_start]Ini secara radikal memenuhi kriteria "Orisinalitas" (Level 5)[cite: 231]. Penggunaan lagu ".Feast - Tarot" dan interpretasi lirik `Padamu ku percaya / Tak masuk logika` sebagai dialog internal saat menghadapi kegagalan (disebut di UTS-1) menciptakan "Inspirasi" (Level 5) yang mendalam tentang kekuatan koneksi internal.
+    * **Saran Perbaikan:** Tidak ada. Pilihan berisiko ini terbayar lunas dalam hal keotentikan.
+    * **Skor: 5/5**
+
+* **UTS-3: My Stories for You ("Eksperimen TPB")**
+    * **Penilaian:** Halaman ini berfungsi sebagai "origin story" dari filosofi yang diperkenalkan di UTS-1. Rubrik UTS-3 sangat menekankan "Pengembangan Narasi". [cite_start]Halaman ini "sambung rapi dengan bagian awal" (Level 5) [cite: 235] dengan menjelaskan *mengapa* penyusun bisa memandang kegagalan Datavidia (UTS-1) sebagai "data"—yaitu karena ia sudah pernah "hancur" dan "belajar" dari kegagalan di TPB. Ini adalah puncak dari "Keautentikan" (Level 5) dalam seri ini.
+    * **Saran Perbaikan:** Tidak ada.
+    * **Skor: 5/5**
+
+* **UTS-4: My SHAPE ("Source Code Sang Eksplorator")**
+    * **Penilaian:** Ini adalah halaman sintesis. [cite_start]Sekali lagi, untuk menghindari laporan yang kering, halaman ini dibingkai secara "orisinal" (Level 5) [cite: 239] sebagai "validasi" atau "pembongkaran source code" dari narasi yang ada. [cite_start]Poin "Pengembangan Narasi" (Level 5) [cite: 239] terpenuhi dengan sempurna, di mana setiap poin (S, H, A, P, E) secara eksplisit dihubungkan kembali ke cerita di UTS-1, 2, dan 3. "Piagam Diri" dan "Identitas Naratif" di akhir berfungsi sebagai kesimpulan yang koheren untuk seluruh portofolio.
+    * **Saran Perbaikan:** Tidak ada.
+    * **Skor: 5/5**
+
+#### SKOR (Kontribusi CPMK)
+
+Perhitungan skor setiap TUGAS dan kontribusinya pada skor CPMK berdasarkan Tabel 1 dari `skor_uts.pdf`.
+
+Skor (dari 100) = (Skor Rata-rata / 5) \* 100
+Kontribusi CPMK = Skor (dari 100) \* (Bobot CPMK / 100)
+
+* **UTS-1:** (5.0 / 5) \* 100 = 100. Bobot 6 untuk CPMK-2. Kontribusi: 100 \* 0.06 = 6.0
+* **UTS-2:** (5.0 / 5) \* 100 = 100. Bobot 7 untuk CPMK-2. Kontribusi: 100 \* 0.07 = 7.0
+* **UTS-3:** (5.0 / 5) \* 100 = 100. Bobot 7 untuk CPMK-2. Kontribusi: 100 \* 0.07 = 7.0
+* **UTS-4:** (5.0 / 5) \* 100 = 100. Bobot 6 untuk CPMK-2. Kontribusi: 100 \* 0.06 = 6.0
+* **UTS-5:** (5.0 / 5) \* 100 = 100. Bobot 10 untuk CPMK-1. Kontribusi: 100 \* 0.10 = 10.0
+
+File CSV untuk rekap skor uts dapat diakses melalui link berikut: [Klik di sini untuk membuka file](https://drive.google.com/file/d/15Qa5jm38Tz0m1f99SVMNLpsAQjTbhZjf/view?usp=sharing)
+
+---
+
+<!-- ## 2. Peer-Assessment (Manual)
+
+[cite_start]Bagian ini berisi telaahan manual (Peer-Assessment) tanpa AI terhadap karya rekan-rekan mahasiswa, sesuai dengan penugasan saat UTS .
+
+*(Catatan: Konten di bawah ini akan saya isi secara manual setelah daftar URL Peer-Assessment dibagikan).*
+
+### Peer-Assessment 1: [Nama/NIM Peer 1]
+* **URL Karya:** `[Link ke portofolio peer 1]`
+* **Tinjauan Umum:**
+    * [Tinjauan umum Anda terhadap karya Peer 1]
+* **Tinjauan Spesifik (Skor & Saran):**
+    * **UTS-1:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-2:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-3:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-4:** [Skor Anda/5] - [Komentar/Saran Anda]
+
+### Peer-Assessment 2: [Nama/NIM Peer 2]
+* **URL Karya:** `[Link ke portofolio peer 2]`
+* **Tinjauan Umum:**
+    * [Tinjauan umum Anda terhadap karya Peer 2]
+* **Tinjauan Spesifik (Skor & Saran):**
+    * **UTS-1:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-2:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-3:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-4:** [Skor Anda/5] - [Komentar/Saran Anda]
+
+### Peer-Assessment 3 (Bonus): [Nama/NIM Peer 3]
+* **URL Karya:** `[Link ke portofolio peer 3]`
+* **Tinjauan Umum:**
+    * [Tinjauan umum Anda terhadap karya Peer 3]
+* **Tinjauan Spesifik (Skor & Saran):**
+    * **UTS-1:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-2:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-3:** [Skor Anda/5] - [Komentar/Saran Anda]
+    * **UTS-4:** [Skor Anda/5] - [Komentar/Saran Anda]
+
+---
+
+## 3. Lembar Skor
+
+[cite_start]Skor gabungan dari Self-Assessment dan Peer-Assessment di atas telah diisi ke dalam file `Lembar Skor.xlsx` dan dilaporkan ke MS Form yang ditentukan .
+
+[Klik di sini untuk melihat Lembar Skor](https://drive.google.com/file/d/15Qa5jm38Tz0m1f99SVMNLpsAQjTbhZjf/view?usp=sharing) -->
+
 <!-- Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
 
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
