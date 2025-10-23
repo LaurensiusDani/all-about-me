@@ -1,5 +1,80 @@
 # UTS-4 My SHAPE 
 
+---
+title: "UTS-4 My SHAPE"
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+# Welcome to My SHAPE {.unnumbered}
+
+## SHAPE Framework
+
+Berikut adalah pemetaan lima dimensi fundamental diri saya yang menjelaskan mengapa saya beroperasi seperti seorang "eksplorator" di "laboratorium" saya sendiri, sesuai dengan panduan dari dokumen *My SHAPE*.
+
+---
+
+### S - Signature Strengths (Kekuatan Khas)
+
+* **Rasa Ingin Tahu (Curiosity):** Dorongan utama saya untuk "bereksperimen". Inilah yang membuat saya mendaftar lomba Datavidia & IFEST dan membangun *ThinkBoard* hanya untuk "mengumpulkan data".
+* **Cinta Belajar (Love of Learning):** Saya lebih menghargai "data" yang didapat dari kegagalan daripada "kemenangan" itu sendiri. Ini adalah inti dari filosofi *Laboratorium Eksplorasi* saya.
+* **Resiliensi / Kegigihan (Perseverance):** Kemampuan untuk bangkit kembali setelah "eksperimen" gagal, seperti yang pertama kali saya pelajari saat TPB.
+
+---
+
+### H - Heart (Minat, Nilai, Kepedulian)
+
+* **Pertumbuhan (Growth):** Nilai inti saya yang paling fundamental. Saya harus terus bergerak dan belajar. Bagi saya, "vonis" terburuk adalah stagnasi, bukan kegagalan.
+* **Kemandirian / Otonomi (Autonomy):** Nilai ini adalah fondasi dari UTS-2 (*I am enough*). Saya harus bisa menjadi jaring pengaman saya sendiri.
+* **Minat pada Teknologi:** "Laboratorium" saya berfokus pada *Software Engineering*. Ini adalah bidang tempat saya memilih untuk menjalankan semua eksperimen saya.
+
+---
+
+### A - Abilities (Kemampuan Andal)
+
+* **Analisis & Pemecahan Masalah:** Keterampilan yang saya gunakan sehari-hari, baik saat *debugging* *ThinkBoard* maupun menganalisis mengapa saya gagal di lomba.
+* **Belajar Mandiri (Self-Learning):** Kemampuan untuk mempelajari *tech stack* baru (seperti MERN) sendirian untuk proyek pribadi.
+* **Keterampilan Teknis (Hard Skills):** *Web Development* (MERN Stack), *Data Analysis* (Python, SQL).
+
+---
+
+### P - Personality (Gaya Kerja & Kolaborasi)
+
+* **Reflektif & Introspektif:** Gaya kerja saya sangat internal. Saya perlu "berdialog dengan diri sendiri" (seperti di UTS-2) untuk memproses hasil dan kegagalan.
+* **Logis & Analitis:** Saya cenderung memproses emosi (seperti kekecewaan) secara logis. Saya mengubah "rasa malu" menjadi "data yang bisa ditindaklanjuti".
+* **Berani Mengambil Risiko (Calculated Risk-Taker):** Saya secara sadar memilih untuk "bereksperimen" (ikut lomba) yang berisiko gagal demi mendapatkan "data" (Pertumbuhan).
+
+---
+
+### E - Experiences (Pengalaman Pembentuk)
+
+* **Kegagalan Ujian Pertama di TPB:** "Lembah" yang menjadi *origin story* saya (dijelaskan di UTS-3). Di sinilah saya belajar mengubah "vonis" menjadi "data".
+* **Proyek Pribadi (*ThinkBoard*):** Eksperimen pertama yang membuktikan bahwa saya bisa belajar *skill* baru (A) secara mandiri (H).
+* **Kegagalan Lomba (Datavidia & IFEST):** Tes lapangan pertama untuk filosofi saya. Pengalaman ini membuktikan bahwa pelajaran dari TPB (E) benar-benar telah mendarah daging.
+
+---
+
+## Piagam Diri (Self-Charter)
+
+Aku berkomitmen untuk menggunakan **Rasa Ingin Tahu (S)** dan kemampuan **Analisis (A)** sebagai mesin utama *Laboratorium Eksplorasi*-ku. Dengan berpegang teguh pada nilai **Pertumbuhan (H)** dan **Kemandirian (H)**, aku secara **Logis (P)** akan terus mengubah setiap **Kegagalan (E)** menjadi data yang berharga.
+
+Misi hidupku adalah tidak pernah berhenti bereksperimen, tidak pernah takut pada "data" yang buruk, dan selalu percaya pada diriku sendiri—sebuah kepercayaan yang "tak masuk logika" seperti di lagu *Tarot*—untuk menanggung prosesnya.
+
+---
+
+## Identitas Naratif [9, 147]
+
+**Dulu,** aku melihat diriku sebagai **"Siswa yang Takut Gagal"**. Ceritaku adalah tentang kengerian menghadapi **Kegagalan TPB (E)**. Aku melihat nilai jelek sebagai "vonis" atas kemampuan diriku. Aku adalah korban pasif dari kurikulum.
+
+**Kini,** aku sadar narasiku telah berevolusi. Aku melihat diriku sebagai **"Sang Eksplorator Metodis"**.
+
+Ceritaku bukan lagi tentang menghindari kegagalan; ini tentang *mencari* kegagalan yang produktif. Aku menemukan bahwa **Resiliensi (S)** adalah kekuatanku yang sebenarnya. Pengalaman di **lomba (E)** mengajarkanku bahwa **Kemandirian (H)** dan **Kecintaan Belajar (S)** adalah jaring pengaman saya.
+
+Aku belajar bahwa *skill* terpenting bukanlah sekadar bisa *coding* (A), tapi memiliki **Gaya Kerja Logis (P)** untuk memproses kegagalan, dan keberanian untuk berkata **"Padamu (diriku) ku percaya" (H)**, bahkan ketika seluruh data berkata aku salah.
+
+
 <!-- (Spiritual Gifts, Heart, Abilities, Personality, Experiences) -->
 
 <!-- > **Tujuan:** Merangkum rancangan diri (charter) agar saya melayani, berkarya, dan memimpin secara paling selaras dengan karunia dan pengalaman hidup saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.

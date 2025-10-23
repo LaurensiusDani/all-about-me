@@ -1,19 +1,41 @@
 # UTS-1 All About Me
 
 <p align="center">
-  <img src="../images/NewArabMe3.jpg" width="40%" style="border-radius:12px;" />
+  <img src="../images/JustChillin.jpg" width="40%" style="border-radius:12px;" />
   <br>  
-  😎😎😎😎 
 </p>
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+## Logbook Seorang Eksplorator 🧪🔬💻
+
+Halo, saya Laurensius Dani Rendragraha. Banyak orang melihat masa kuliah sebagai jalur lurus untuk menjadi "sesuatu". Bagi saya, setidaknya di semester tiga ini, kuliah adalah sebuah **laboratorium**. Saya masuk STI ITB dengan hipotesis sederhana: "Saya tertarik pada teknologi" tetapi "teknologi" itu adalah ruangan yang terlalu besar. Oleh karena itu, saya memutuskan untuk mulai menjalankan serangkaian eksperimen pada diri saya sendiri.
+
+### Eksperimen #1: Hipotesis yang Gagal
+
+Eksperimen pertama adalah *Web Development*. Saya mencoba meracik suatu project menggunakan suatu *tech stack* dan membangun "ThinkBoard", sebuah aplikasi *note-taking*. Prosesnya menantang, tapi saya melihat sesuatu terbentuk. Eksperimen ini memberi saya data: "Oke, ini menarik. Ada rasa pencapaian di sini."
+
+Eksperimen kedua adalah *Data Science*. Saya langsung terjun ke simulasi sesungguhnya: lomba Datavidia 9.0 dan IFEST UNPAD. Saya ingin tahu bagaimana rasanya diuji di bidang ini. Hasilnya? Cepat dan brutal. Saya gagal di kedua babak penyisihan. Jika ini adalah eksperimen lab, laporan saya akan bertuliskan: **"Hipotesis ditolak. Subjek gagal total."**
+
+### Wawasan dari Laboratorium: Belajar Cara Belajar
+
+Dulu, mungkin saya akan melihat dua kegagalan itu sebagai vonis. Tapi di sinilah wawasan terbesar saya muncul—sebuah pelajaran yang akarnya sudah saya rasakan sejak TPB: proses "belajar cara belajar".
+
+Saya sadar, saya tidak gagal. Saya justru **sukses besar** dalam mengumpulkan data. Dua kegagalan itu memberi saya data yang jauh lebih berharga daripada kemenangan: "Mungkin bidang ini bukan untuk saya, atau setidaknya, belum saatnya." Eksperimen itu berhasil memberi saya jawaban. Saya belajar bahwa di tahap ini, *eksplorasi adalah tujuannya*, bukan kemenangan. Saya sedang dalam mode *mencoba berbagai hal* secara sadar, sebelum saya *lock-in* dan fokus di semester depan.
+
+### Hipotesis Berikutnya: Daya Tarik dari Sebuah Proses
+
+Jadi, siapa saya? Saya adalah seorang **eksplorator yang metodis**. Saya adalah mahasiswa yang tidak takut menjalankan eksperimen yang berisiko gagal, karena saya tahu setiap kegagalan hanyalah sebuah *data point* baru dalam *logbook* saya.
+
+Bagi saya, inilah "daya tarik interpersonal" yang sesungguhnya. Bukan tentang menampilkan sosok yang sempurna dan "sudah jadi". Daya tarik ada pada **kejujuran proses**. Pada keberanian untuk berkata, "Saya belum tahu jawaban pastinya, tapi saya sedang aktif mencarinya."
+
+Saya tidak tahu di bidang mana saya akan berlabuh nanti. Tapi saya tahu persis apa yang saya lakukan sekarang: saya sedang memetakan wilayah.   aya harap, halaman-halaman berikutnya bisa menunjukkan sedikit dari peta yang sudah saya kumpulkan.
+
+<!-- Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
 
 Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
 
 Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
 
 Apa gagasan yang sedang ia pikirkan?
-
 
 ## **Kisah yang Membentuk Diri Anda: Mengenal Kekuatan Identitas Naratif**
 
@@ -111,4 +133,4 @@ Momen-momen berkilau ini adalah bukti nyata dari kekuatan, nilai, dan ketahanan 
 
 Pada akhirnya, kita semua adalah penulis kisah hidup kita sendiri. Cerita yang kita sampaikan kepada diri kita sendiri secara aktif menciptakan realitas kita (5). Kisah hidup yang sehat ditandai oleh tema-tema penebusan, di mana kesulitan diubah menjadi pertumbuhan, dan agensi, di mana kita menjadi pahlawan dalam perjalanan kita sendiri.
 
-Tujuannya bukanlah untuk menulis sebuah cerita yang "sempurna" dan tanpa cela. Tujuannya adalah untuk menumbuhkan keberanian untuk terus menulis, terus mencari makna, dan menjadi penulis sebuah kisah hidup yang berani, jujur, dan layak untuk diceritakan.
+Tujuannya bukanlah untuk menulis sebuah cerita yang "sempurna" dan tanpa cela. Tujuannya adalah untuk menumbuhkan keberanian untuk terus menulis, terus mencari makna, dan menjadi penulis sebuah kisah hidup yang berani, jujur, dan layak untuk diceritakan. -->
