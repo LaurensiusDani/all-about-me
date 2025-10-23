@@ -4,8 +4,8 @@
 
 Sesuai instruksi tugas, halaman ini berisi telaahan (review) pesan personal dari UTS-1 sampai UTS-4 berdasarkan rubrik yang ada.
 
-Bagian ini dibagi menjadi dua:
-1.  **Self-Assessment:** Sebuah tinjauan kritis terhadap karya saya sendiri (UTS-1 s/d UTS-4), yang dilakukan dengan bantuan AI (Gemini) sesuai permintaan tugas .
+Bagian ini dibagi menjadi dua:<br>
+1.  **Self-Assessment:** Sebuah tinjauan kritis terhadap karya saya sendiri (UTS-1 s/d UTS-4), yang dilakukan dengan bantuan AI (Gemini) sesuai permintaan tugas .<br>
 2.  **Peer-Assessment:** Tinjauan manual tanpa AI terhadap karya rekan-rekan mahasiswa .
 
 ---
@@ -17,7 +17,7 @@ Bagian ini dibagi menjadi dua:
 ### **LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UTS**
 
 #### Identifikasi
-1.  **Nama Mahasiswa dan NIM Penyusun TUGAS:** Laurensius Dani Rendragraha, [NIM Anda]
+1.  **Nama Mahasiswa dan NIM Penyusun TUGAS:** Laurensius Dani Rendragraha, 18224107
 2.  **Nama Penilai:** AI (Model Gemini)
 
 #### Tinjauan Umum
@@ -35,17 +35,17 @@ Tujuan utama dari pendekatan ini adalah untuk memenuhi kriteria "Level 5" pada r
     * **Skor: 5/5**
 
 * **UTS-2: Song for You ("Dialog Internal - Tarot")**
-    * **Penilaian:** Halaman ini mengambil risiko interpretasi yang berani dengan mendedikasikan karya untuk "diri sendiri" sebagai "ia". [cite_start]Ini secara radikal memenuhi kriteria "Orisinalitas" (Level 5)[cite: 231]. Penggunaan lagu ".Feast - Tarot" dan interpretasi lirik `Padamu ku percaya / Tak masuk logika` sebagai dialog internal saat menghadapi kegagalan (disebut di UTS-1) menciptakan "Inspirasi" (Level 5) yang mendalam tentang kekuatan koneksi internal.
+    * **Penilaian:** Halaman ini mengambil risiko interpretasi yang berani dengan mendedikasikan karya untuk "diri sendiri" sebagai "ia". Ini secara radikal memenuhi kriteria "Orisinalitas" (Level 5). Penggunaan lagu ".Feast - Tarot" dan interpretasi lirik `Padamu ku percaya / Tak masuk logika` sebagai dialog internal saat menghadapi kegagalan (disebut di UTS-1) menciptakan "Inspirasi" (Level 5) yang mendalam tentang kekuatan koneksi internal.
     * **Saran Perbaikan:** Tidak ada. Pilihan berisiko ini terbayar lunas dalam hal keotentikan.
     * **Skor: 5/5**
 
 * **UTS-3: My Stories for You ("Eksperimen TPB")**
-    * **Penilaian:** Halaman ini berfungsi sebagai "origin story" dari filosofi yang diperkenalkan di UTS-1. Rubrik UTS-3 sangat menekankan "Pengembangan Narasi". [cite_start]Halaman ini "sambung rapi dengan bagian awal" (Level 5) [cite: 235] dengan menjelaskan *mengapa* penyusun bisa memandang kegagalan Datavidia (UTS-1) sebagai "data"—yaitu karena ia sudah pernah "hancur" dan "belajar" dari kegagalan di TPB. Ini adalah puncak dari "Keautentikan" (Level 5) dalam seri ini.
+    * **Penilaian:** Halaman ini berfungsi sebagai "origin story" dari filosofi yang diperkenalkan di UTS-1. Rubrik UTS-3 sangat menekankan "Pengembangan Narasi". Halaman ini "sambung rapi dengan bagian awal" (Level 5) dengan menjelaskan *mengapa* penyusun bisa memandang kegagalan Datavidia (UTS-1) sebagai "data"—yaitu karena ia sudah pernah "hancur" dan "belajar" dari kegagalan di TPB. Ini adalah puncak dari "Keautentikan" (Level 5) dalam seri ini.
     * **Saran Perbaikan:** Tidak ada.
     * **Skor: 5/5**
 
 * **UTS-4: My SHAPE ("Source Code Sang Eksplorator")**
-    * **Penilaian:** Ini adalah halaman sintesis. [cite_start]Sekali lagi, untuk menghindari laporan yang kering, halaman ini dibingkai secara "orisinal" (Level 5) [cite: 239] sebagai "validasi" atau "pembongkaran source code" dari narasi yang ada. [cite_start]Poin "Pengembangan Narasi" (Level 5) [cite: 239] terpenuhi dengan sempurna, di mana setiap poin (S, H, A, P, E) secara eksplisit dihubungkan kembali ke cerita di UTS-1, 2, dan 3. "Piagam Diri" dan "Identitas Naratif" di akhir berfungsi sebagai kesimpulan yang koheren untuk seluruh portofolio.
+    * **Penilaian:** Ini adalah halaman sintesis. Sekali lagi, untuk menghindari laporan yang kering, halaman ini dibingkai secara "orisinal" (Level 5) sebagai "validasi" atau "pembongkaran source code" dari narasi yang ada. Poin "Pengembangan Narasi" (Level 5)  terpenuhi dengan sempurna, di mana setiap poin (S, H, A, P, E) secara eksplisit dihubungkan kembali ke cerita di UTS-1, 2, dan 3. "Piagam Diri" dan "Identitas Naratif" di akhir berfungsi sebagai kesimpulan yang koheren untuk seluruh portofolio.
     * **Saran Perbaikan:** Tidak ada.
     * **Skor: 5/5**
 
@@ -63,6 +63,8 @@ Kontribusi CPMK = Skor (dari 100) \* (Bobot CPMK / 100)
 * **UTS-5:** (5.0 / 5) \* 100 = 100. Bobot 10 untuk CPMK-1. Kontribusi: 100 \* 0.10 = 10.0
 
 File CSV untuk rekap skor uts dapat diakses melalui link berikut: [Klik di sini untuk membuka file](https://drive.google.com/file/d/15Qa5jm38Tz0m1f99SVMNLpsAQjTbhZjf/view?usp=sharing)
+
+File peer assessment dapat diakses melalui link berikut: [Klik di sini untuk membuka file](https://itbdsti-my.sharepoint.com/:x:/g/personal/18224107_mahasiswa_itb_ac_id/EVWI2kXBDk9DvNIT4Kf8kpoBIV4COLKzmCVdlgc_ikdPCg?e=ApkWzc)
 
 ---
 
