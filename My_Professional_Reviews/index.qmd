@@ -1,11 +1,3 @@
----
-title: "UAS-5 My Professional Review"
-format:
-  html:
-    toc: true
-    number-sections: false
----
-
 ## UAS-5 My Professional Reviews
 
 # UAS-5 My Professional Review
@@ -77,15 +69,46 @@ Tujuan utama dari pendekatan ini adalah untuk memenuhi kriteria tingkat tinggi p
 
 ### **SKOR (Kontribusi CPMK)**
 
-Perhitungan skor setiap TUGAS dan kontribusinya pada skor CPMK disesuaikan dengan rubrik UAS.
+Perhitungan skor setiap UAS dan kontribusinya terhadap CPMK dilakukan berdasarkan Tabel Asesmen CPMK pada RPS mata kuliah II-2100, dengan rumus sebagai berikut:
 
-- **UAS-1:** 5.0 / 5  
-- **UAS-2:** 5.0 / 5  
-- **UAS-3:** 5.0 / 5  
-- **UAS-4:** 5.0 / 5  
-- **UAS-5:** 5.0 / 5  
+**Skor (dari 100)** = (Skor Rata-rata / 5) × 100  
+**Kontribusi CPMK** = Skor (dari 100) × (Bobot CPMK / 100)
+
+### Perhitungan Per Tugas
+
+- **UAS-1: My Concepts**  
+  (5.0 / 5) × 100 = **100**  
+  Bobot **6** untuk **CPMK-4**  
+  Kontribusi: 100 × 0.06 = **6.0**
+
+- **UAS-2: My Opinions**  
+  (5.0 / 5) × 100 = **100**  
+  Bobot **6** untuk **CPMK-4**  
+  Kontribusi: 100 × 0.06 = **6.0**
+
+- **UAS-3: My Innovations**  
+  (5.0 / 5) × 100 = **100**  
+  Bobot **7** untuk **CPMK-4**  
+  Kontribusi: 100 × 0.07 = **7.0**
+
+- **UAS-4: My Knowledge**  
+  (5.0 / 5) × 100 = **100**  
+  Bobot **7** untuk **CPMK-4**  
+  Kontribusi: 100 × 0.07 = **7.0**
+
+- **UAS-5: My Professional Review**  
+  (5.0 / 5) × 100 = **100**  
+  Bobot **10** untuk **CPMK-3**  
+  Kontribusi: 100 × 0.10 = **10.0**
+
+### Rekap Kontribusi CPMK
+
+- **Total Kontribusi CPMK-4:** 6.0 + 6.0 + 7.0 + 7.0 = **26.0**
+- **Total Kontribusi CPMK-3:** **10.0**
 
 Secara keseluruhan, rangkaian tugas UAS ini memenuhi kriteria penilaian tertinggi dengan menunjukkan **koherensi konseptual, kedalaman refleksi, dan penciptaan nilai nyata**.
+
+File CSV untuk rekap skor UAS dapat diakses melalui link berikut: [Klik di sini untuk membuka file](https://drive.google.com/file/d/1c_qJiSDt0JCkzBiJSg84CuKfRRgroAJD/view?usp=sharing)
 
 ---
 
@@ -94,4 +117,4 @@ Secara keseluruhan, rangkaian tugas UAS ini memenuhi kriteria penilaian tertingg
 Bagian ini berisi hasil telaahan manual terhadap karya rekan-rekan mahasiswa, yang dilakukan tanpa bantuan AI, dengan fokus pada pemahaman konsep, inovasi nilai, dan konsistensi terhadap rubrik UAS.
 
 File peer assessment dapat diakses melalui link berikut:  
-[Klik di sini untuk membuka file](link-ke-spreadsheet-peer-assessment)
+[Klik di sini untuk membuka file](https://docs.google.com/spreadsheets/d/1gO5RAfHlt3025QGyOPLSqctDsHPJcV4XH5UAjcnlVW0/edit?usp=sharing)
