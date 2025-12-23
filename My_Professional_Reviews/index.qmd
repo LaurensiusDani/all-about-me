@@ -1,16 +1,16 @@
 ---
-title: "UAS-5 My Personal Review"
+title: "UAS-5 My Professional Review"
 format:
   html:
     toc: true
     number-sections: false
 ---
 
-## UAS-5 My Personal Reviews
+## UAS-5 My Professional Reviews
 
-# UAS-5 My Personal Review
+# UAS-5 My Professional Review
 
-Sesuai instruksi tugas, halaman ini berisi telaahan (review) pesan personal dari **UAS-1 sampai UAS-4** berdasarkan rubrik yang ada.
+Sesuai instruksi tugas, halaman ini berisi telaahan (review) pesan professional dari **UAS-1 sampai UAS-4** berdasarkan rubrik yang ada.
 
 Bagian ini dibagi menjadi dua:<br>
 1. **Self-Assessment:** Sebuah tinjauan kritis terhadap karya saya sendiri (UAS-1 s/d UAS-4), yang dilakukan dengan bantuan AI (Gemini) sesuai permintaan tugas.<br>
