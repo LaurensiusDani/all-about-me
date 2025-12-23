@@ -1,7 +1,37 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge  
+## Memahami Sistem Kompleks melalui Transparansi Konseptual
 
-<!-- Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}} -->
+### Pengetahuan Dasar (Level 1–2)
+
+Sistem adalah kumpulan komponen yang saling berinteraksi untuk mencapai tujuan tertentu. Sistem digital dan AI sering bersifat kompleks karena melibatkan data, algoritma, dan manusia.
+
+---
+
+### Pengetahuan Aplikatif (Level 3–4)
+
+Manusia dapat memahami sistem kompleks dengan:
+
+- memetakan alur keputusan,
+- mengidentifikasi titik beban,
+- dan menggunakan bahasa konseptual yang tepat.
+
+Pendekatan ini memungkinkan manusia memprediksi, menganalisis, dan mengevaluasi dampak sistem.
+
+---
+
+### Peta Pengetahuan
+
+- **Peta Pengetahuan Primitif**: definisi sistem, AI, keputusan, agensi.
+- **Peta Pengetahuan Aplikatif**: bagaimana sistem bekerja untuk memindahkan beban dari titik A ke B.
+
+---
+
+### Daya Guna bagi Publik
+
+Pengetahuan ini membantu masyarakat:
+
+- tidak takut pada teknologi,
+- memahami sistem yang memengaruhi hidupnya,
+- dan berpartisipasi aktif dalam pengambilan keputusan.
+
+Pengetahuan yang baik adalah pengetahuan yang **membuat manusia lebih berdaya**, bukan lebih bingung.

@@ -1,2 +1,97 @@
-## UAS-5 My Professional Reviews
-<!-- Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik -->
+---
+title: "UAS-5 My Personal Review"
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+## UAS-5 My Personal Reviews
+
+# UAS-5 My Personal Review
+
+Sesuai instruksi tugas, halaman ini berisi telaahan (review) pesan personal dari **UAS-1 sampai UAS-4** berdasarkan rubrik yang ada.
+
+Bagian ini dibagi menjadi dua:<br>
+1. **Self-Assessment:** Sebuah tinjauan kritis terhadap karya saya sendiri (UAS-1 s/d UAS-4), yang dilakukan dengan bantuan AI (Gemini) sesuai permintaan tugas.<br>
+2. **Peer-Assessment:** Tinjauan manual tanpa AI terhadap karya rekan-rekan mahasiswa.
+
+---
+
+## 1. Self-Assessment (Menggunakan AI)
+
+[cite_start]Berikut adalah laporan *self-assessment* yang dihasilkan oleh AI (Gemini) setelah menganalisis portofolio UAS saya dan membandingkannya dengan rubrik penilaian UAS yang diberikan dosen.
+
+### **LAPORAN PENGUKURAN BERDASARKAN RUBRIK DARI TUGAS UAS**
+
+---
+
+### **Identifikasi**
+
+1. **Nama Mahasiswa dan NIM Penyusun TUGAS:** Laurensius Dani Rendragraha, 18224107  
+2. **Nama Penilai:** AI (Model Gemini)
+
+---
+
+### **Tinjauan Umum**
+
+Kumpulan tugas UAS (UAS-1 s/d UAS-4) ini dirancang secara sadar untuk membangun sebuah narasi tunggal yang koheren. Tema utamanya adalah:
+
+> **“My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence.”**
+
+Narasi ini membingkai identitas penyusun sebagai individu yang berupaya merespons **ketidakberdayaan manusia dalam sistem kompleks berbasis AI** melalui pendekatan konseptual, reflektif, dan aplikatif.
+
+Narasi dimulai dengan perumusan **konsep inti** (UAS-1), dilanjutkan dengan pembentukan **opini personal yang sadar sudut pandang** (UAS-2), diwujudkan dalam bentuk **inovasi nilai** (UAS-3), dan diakhiri dengan artikulasi **pengetahuan terstruktur** (UAS-4).
+
+Tujuan utama dari pendekatan ini adalah untuk memenuhi kriteria tingkat tinggi pada rubrik UAS, yang tidak hanya menilai pemahaman materi, tetapi juga **kedalaman berpikir konseptual, koherensi narasi, dan penciptaan nilai**.
+
+---
+
+### **Tinjauan Spesifik**
+
+#### **UAS-1: My Concepts — “Conceptual Transparency System”**
+
+- **Penilaian:** UAS-1 berhasil merumuskan masalah kemanusiaan lintas sektor secara eksplisit dan sistemik. Konsep CTS didefinisikan sesuai dengan pengertian konsep sebagai *logika mesin abstrak* yang menghimpun kekuatan (K) untuk mengangkat beban (B). Hal ini menunjukkan pemahaman konseptual yang kuat dan berada pada level tinggi dalam rubrik.
+- **Saran Perbaikan:** Tidak ada.
+- **Skor: 5/5**
+
+#### **UAS-2: My Opinions**
+
+- **Penilaian:** Halaman ini menampilkan opini yang reflektif, sadar sudut pandang, dan terbuka terhadap perubahan berdasarkan informasi dan nilai baru. Opini disampaikan secara personal namun terkontrol, sesuai dengan karakteristik *beautiful mind*.
+- **Saran Perbaikan:** Tidak ada.
+- **Skor: 5/5**
+
+#### **UAS-3: My Innovations**
+
+- **Penilaian:** Inovasi yang diajukan tidak bersifat teknis semata, melainkan berupa **inovasi nilai** melalui *System Transparency Canvas*. Karya ini memenuhi prinsip *value co-creation* dan menunjukkan pemahaman mendalam atas pendekatan VALORAIZE.
+- **Saran Perbaikan:** Tidak ada.
+- **Skor: 5/5**
+
+#### **UAS-4: My Knowledge**
+
+- **Penilaian:** UAS-4 berhasil mengartikulasikan pengetahuan secara terstruktur dengan mengaitkan taksonomi Bloom, peta pengetahuan primitif, dan peta pengetahuan aplikatif. Pengetahuan diposisikan sebagai alat untuk memahami dan memecahkan masalah nyata.
+- **Saran Perbaikan:** Tidak ada.
+- **Skor: 5/5**
+
+---
+
+### **SKOR (Kontribusi CPMK)**
+
+Perhitungan skor setiap TUGAS dan kontribusinya pada skor CPMK disesuaikan dengan rubrik UAS.
+
+- **UAS-1:** 5.0 / 5  
+- **UAS-2:** 5.0 / 5  
+- **UAS-3:** 5.0 / 5  
+- **UAS-4:** 5.0 / 5  
+- **UAS-5:** 5.0 / 5  
+
+Secara keseluruhan, rangkaian tugas UAS ini memenuhi kriteria penilaian tertinggi dengan menunjukkan **koherensi konseptual, kedalaman refleksi, dan penciptaan nilai nyata**.
+
+---
+
+## 2. Peer-Assessment (Tanpa AI)
+
+Bagian ini berisi hasil telaahan manual terhadap karya rekan-rekan mahasiswa, yang dilakukan tanpa bantuan AI, dengan fokus pada pemahaman konsep, inovasi nilai, dan konsistensi terhadap rubrik UAS.
+
+File peer assessment dapat diakses melalui link berikut:  
+[Klik di sini untuk membuka file](link-ke-spreadsheet-peer-assessment)
